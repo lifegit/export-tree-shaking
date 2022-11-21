@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[858],{1545:function(u,t,n){n.r(t);var E=n(8757),a=n(8822),s=n(5667),r=function(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("div",{children:(0,s.jsx)(a.C,{src:"https://joeschmoe.io/api/v1/random"})})})};t.default=r}}]);
